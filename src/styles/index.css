@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.bigDiv {
+text-align: center;
+background-color: black;
+}
+
+.bigDiv div {
+    border-radius: 10px;
+    font-size: 60px;
+    color: white;
+    display: inline;
+    margin: 3px;
+    padding: 10px;
+    background-color: grey;
+}
